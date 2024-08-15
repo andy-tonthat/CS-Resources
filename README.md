@@ -3,7 +3,7 @@ This meant to be a hub of resources for students who:
 - need more perspectives for learning material in their classes
 - want to scope out what courses are like / deciding what to take
 
-# Resources
+# Classes Resources
 
 ## Lower-Divs
 |    Course     |                                                                                Resources                                                                                 |
@@ -17,16 +17,18 @@ This meant to be a hub of resources for students who:
 |    MATH 3A    |                                                                                   TBD                                                                                    |
 |    STAT 67    |                                                                                   TBD                                                                                    |
 |    ICS 45C    |                                                 [Thornton S22 Course Site](https://ics.uci.edu/~thornton/ics45c/Notes/)                                                  |
+|    ICS 46     |                                                                                   [Thornton S22 Course Site](https://ics.uci.edu/~thornton/ics46/Notes/)                                                                                    |
 |    ICS 51     |                                                                                   TBD                                                                                    |
+|    ICS 53     |                                                                                   TBD                                                                                    |
 
 ## Upper-Divs
-|Course|Resources|
-|:-:|:-:|
-|CS122A|[Carey F21 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122a-2021-fall)|
-|CS122D|[Carey S23 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2023-spring)|
-|CS143A|[Burtsev S24 Lecture Videos (at UoU)](https://www.youtube.com/playlist?list=PLsoEMNGAqtDOwDnR1W2AuTX79_iKPXRT7)<br>[Burtsev F21 Course Site](https://ics.uci.edu/~aburtsev/143A/index.html)|
-|CS161|[Panageas S24 Course Site](https://panageas.github.io/algo2024)|
-|CS162|[Professor Porter Videos (Portland State)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)<br>[Easy Theory Videos](https://www.youtube.com/@EasyTheory/playlists)|
+| Course |                                                                                          Resources                                                                                          |
+| :----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| CS 122A |                                                    [Carey F21 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122a-2021-fall)                                                    |
+| CS 122D |                                                   [Carey S23 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2023-spring)                                                   |
+| CS 143A | [Burtsev S24 Lecture Videos (at UoU)](https://www.youtube.com/playlist?list=PLsoEMNGAqtDOwDnR1W2AuTX79_iKPXRT7)<br>[Burtsev F21 Course Site](https://ics.uci.edu/~aburtsev/143A/index.html) |
+| CS 161  |                                                               [Panageas S24 Course Site](https://panageas.github.io/algo2024)                                                               |
+| CS 162  | [Professor Porter Videos (Portland State)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz)<br>[Easy Theory Videos](https://www.youtube.com/@EasyTheory/playlists) |
 
 # Contributing
 - Create a new Issues if you have other resources to add
