@@ -1,16 +1,11 @@
 # CS Resources
----
-
-- This meant to be a hub of resources for students who:
-	- need more perspectives for learning material in their classes
-	- want to scope out what courses are like / deciding what to take
+This meant to be a hub of resources for students who:
+- need more perspectives for learning material in their classes
+- want to scope out what courses are like / deciding what to take
 
 # Resources
----
 
 ## Lower-Divs
----
-
 - ICS 31 → TBD
 - ICS 32 → [Thornton W22 Course Site](https://ics.uci.edu/~thornton/ics32/Notes/)
 - ICS 32A / H32 → [Thornton F23 Course Site](https://ics.uci.edu/~thornton/ics32a/Notes/)
@@ -29,7 +24,6 @@
 - ICS 53 → TBD (probably never, Wong-ma is strict about her notes ownership)
 
 ## Upper-Divs
----
 - CS 122A → [Carey F21 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122a-2021-fall)
 - CS 122D → [Carey S23 Course Site](https://grape.ics.uci.edu/wiki/asterix/wiki/cs122d-2023-spring)
 
@@ -39,7 +33,6 @@
 - CS 162 → [Professor Porter Videos (Portland State)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz), [Easy Theory Videos](https://www.youtube.com/@EasyTheory/playlists)
 
 # Contributing
----
 - Create a new Issues if you have other resources to add
 	- other university course materials
 	- professors' public materials
